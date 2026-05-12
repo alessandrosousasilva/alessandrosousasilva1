@@ -17,7 +17,7 @@
 ---
 
 ### 👨🏻‍💻 Sobre Mim
-Ddesenvolvedor focado em **Frontend e Mobile**, e **Sistemas de Informação**. 
+Desenvolvedor focado em **Frontend e Mobile**, e **Sistemas de Informação**. 
 Atualmente, dedico meu conhecimento à criação de plataformas escaláveis, dashboards de logística e sistemas interativos para o setor corporativo. 
 
 ---
