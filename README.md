@@ -1,35 +1,48 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=220&section=header&text=Alessandro%20Silva&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Frontend%20%7C%20Sistemas%20de%20Informação&descAlignY=62&descAlign=62" />
 
-
-<h1 align="center">👨‍💻 Bem-vindo ao meu GitHub!</h1>
-
-###
-🎓 Estudante de **Sistemas de Informação**.   
-🚀 Buscando evoluir como Desenvolvedor, focado em **Frontend,** e boas práticas.  
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/alessandrosousasilva" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/_alessandro.ssousa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/3y8wB3mh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="38" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://t.me/alessandrosousasilvaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="38" height="25" alt="telegram logo"  />
-  </a>
-  <a href="mailto:ale.dsistemas@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.youtube.com/@alessandrosousasilvaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="38" height="25" alt="youtube logo"  />
-  </a>
+  <div style="display: inline-block; margin-top: 10px;">
+    <a href="https://www.linkedin.com/in/alessandrosousasilva" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:ale.dsistemas@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://t.me/alessandrosousasilvaa" target="_blank">
+      <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+  </div>
 </div>
 
+---
 
-###
-<div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572">
-    <img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" style="max-width: 100%;"> </a>
+### 👨🏻‍💻 Sobre Mim
+Ddesenvolvedor focado em **Frontend e Mobile**, e **Sistemas de Informação**. 
+Atualmente, dedico meu conhecimento à criação de plataformas escaláveis, dashboards de logística e sistemas interativos para o setor corporativo. 
+
+---
+
+### 🛠️ Tech Stack Profissional
+
+**Linguagens**<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Frontend & Mobile**<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Backend & BaaS**<br>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white)
+
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" />
 </div>
